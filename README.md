@@ -16,11 +16,12 @@ In this workshop we are going to learn how to build Web Services using NodeJS fr
 - How to deploy your own server.
 
 ## Get started
-Follow the steps to begin...
+Follow the steps to begin...  
+
  [Installation](http://handlebarsjs.com/)
 
 ## Topics
 
- * [**Introduction**](http://handlebarsjs.com/)
+ * [**Introduction**](/chapters/introduction/first.md)
   * [**Learning about NodeJS**](http://handlebarsjs.com/)
  * [**Consuming WS**](http://handlebarsjs.com/)
