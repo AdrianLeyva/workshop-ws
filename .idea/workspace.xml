@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67d04b10-06ef-426a-9e07-0fc9cc5d7883" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapters/introduction/first.md" afterPath="$PROJECT_DIR$/chapters/introduction/first.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapters/introduction/frameworks.md" afterPath="$PROJECT_DIR$/chapters/introduction/frameworks.md" />
     </list>
     <ignored path="ws-workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frameworks.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="frameworks.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapters/introduction/frameworks.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -64,8 +65,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <first_editor relative-caret-position="312">
+                <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -73,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="first.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapters/introduction/first.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -88,8 +89,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <first_editor relative-caret-position="72">
+                <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -105,9 +106,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapters/introduction/frameworks.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/chapters/introduction/first.md" />
+        <option value="$PROJECT_DIR$/chapters/introduction/frameworks.md" />
       </list>
     </option>
   </component>
@@ -277,12 +278,12 @@
       <option name="presentableId" value="Default" />
       <updated>1520274840586</updated>
       <workItem from="1520274842913" duration="2107000" />
-      <workItem from="1520280974830" duration="252000" />
+      <workItem from="1520280974830" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2359000" />
+    <option name="totallyTimeSpent" value="2441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -410,28 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapters/introduction/frameworks.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapters/introduction/first.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -446,8 +425,30 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapters/introduction/frameworks.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />

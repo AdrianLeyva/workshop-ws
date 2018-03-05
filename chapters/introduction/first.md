@@ -1,8 +1,7 @@
 
 # Introduction   
-First we need to know what JavaScript is  
 ![Javascript](https://cdn-images-1.medium.com/max/785/0*Co9Hk-VtMLfM08KH.png)    
-
+First we need to know what JavaScript is  
 
 ### What is JavaScript?  
 JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language. Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.  
