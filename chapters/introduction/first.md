@@ -1,6 +1,8 @@
 
 # Introduction   
 First we need to know what JavaScript is  
+![Javascript](https://cdn-images-1.medium.com/max/785/0*Co9Hk-VtMLfM08KH.png)    
+
 
 ### What is JavaScript?  
 JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language. Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.  
@@ -59,8 +61,8 @@ var person = {
 
 ### JavaScript on the server side  
 There are several frameworks to develop on the server side with JavaScript, so you can running apps and web services.  
-![Server-Side\](https://cdn-images-1.medium.com/max/1280/1*HCkIRZ22MoQzUMKNJBSFWQ.png)  
+![Server-Side](https://cdn-images-1.medium.com/max/1280/1*HCkIRZ22MoQzUMKNJBSFWQ.png)  
 
 ## Framework
-[Siguiente](/frameworks.md)  
+[Siguiente](./frameworks.md)  
   
