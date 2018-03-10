@@ -55,4 +55,4 @@ For example:
  
  
 **Async vs Sync**  
-[Siguiente](./async.md)
+[Next](./async.md)

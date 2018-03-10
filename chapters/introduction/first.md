@@ -63,5 +63,5 @@ There are several frameworks to develop on the server side with JavaScript, so y
 ![Server-Side](https://cdn-images-1.medium.com/max/1280/1*HCkIRZ22MoQzUMKNJBSFWQ.png)  
 
 ## Framework
-[Siguiente](./frameworks.md)  
+[Next](./frameworks.md)  
   

@@ -15,4 +15,4 @@ In computer science, a software framework is an abstraction in which software pr
 * [NodeJS](https://nodejs.org/es/)  
 
 
-[Siguiente](../consuming-ws/first.md)
+[Next](../consuming-ws/first.md)
