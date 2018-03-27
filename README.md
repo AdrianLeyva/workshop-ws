@@ -23,5 +23,5 @@ Follow the steps to begin...
 ## Topics
 
  * [**Introduction**](/chapters/introduction/first.md)
-  * [**Learning about NodeJS**](http://handlebarsjs.com/)
- * [**Consuming WS**](http://handlebarsjs.com/)
+  * [**Learning about NodeJS**](/chapters/consuming-ws/first.md)
+ * [**Consuming WS**](/chapters/nodejs/first.md)
