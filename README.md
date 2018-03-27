@@ -18,7 +18,7 @@ In this workshop we are going to learn how to build Web Services using NodeJS fr
 ## Get started
 Follow the steps to begin...  
 
- [Installation](http://handlebarsjs.com/)
+ [Installation](/installation/nodejs.md)
 
 ## Topics
 
