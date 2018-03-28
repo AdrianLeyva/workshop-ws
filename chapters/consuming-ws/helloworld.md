@@ -1,7 +1,7 @@
 # Hello world  
 
 First, let’s take a look at the “Hello, World” application included in the Node documentation. To re-create the application, create a text document with the following JavaScript, using your favorite text editing tool. I use Nodepad++ in Windows, and Vim in Linux.  
-````
+````javascript
 var http = require('http');
 http.createServer(function (request, response) {
 response.writeHead(200, {'Content-Type': 'text/plain'});
